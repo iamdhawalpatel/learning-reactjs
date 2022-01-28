@@ -17,4 +17,5 @@ form label .form-control {
   border-radius: 6px;
   border: 1px solid #ddd;
   font-family: Roboto,Raleway,Open Sans;
+  min-width: 300px;
 }
